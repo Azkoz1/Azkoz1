@@ -41,11 +41,10 @@ I am a versatile developer specializing in building high-performance tools and i
 
 ---
 
-## 📫 Connect with me
-<p align="left">
-  <a href="https://discord.gg/paladinsrp"><img src="https://img.shields.io/badge/Discord-PaladinsRP-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+## 📱 Connect with me
+- 👾 **Discord:** `Azkoz69`
+- 📁 **Projects:** [Check my repositories](https://github.com/Azkoz1?tab=repositories)
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Azkoz1&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <i>Keep coding and stay creative!</i> 🚀
 </p>
