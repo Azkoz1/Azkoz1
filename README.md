@@ -18,7 +18,7 @@ I am a versatile developer specializing in building high-performance tools and i
 
 | Overall Stats | Most Used Languages |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=Azkoz1&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" height="200px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azkoz1&layout=compact&theme=tokyonight&hide_border=false" height="200px" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Azkoz1&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&hide_border=true" height="200px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azkoz1&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="200px" /> |
 
 ---
 
