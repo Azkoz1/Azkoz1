@@ -12,7 +12,7 @@ I am a versatile developer specializing in building high-performance tools and i
 
 | My GitHub Contribution Activity |
 | :--- |
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azkoz1&theme=tokyonight&hide_border=false) |
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azkoz1&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true) |
 
 <br />
 
