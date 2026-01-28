@@ -22,16 +22,14 @@ I am a versatile developer specializing in building high-performance tools and i
 
 ---
 
-## 🚀 About Me
-I am a **versatile developer** with a passion for clean code and problem-solving. While I also lead the **PaladinsRP** community, my primary focus is developing scalable systems across multiple programming environments.
+## 🛠️ Tech Stack & Skills
 
 - 🌍 **Languages:** Proficient in high-level and low-level programming.
 - 🛠️ **FiveM Expert:** Deep experience in Lua and server architecture.
 - 🔍 **Focus:** Performance optimization and custom UI/UX design.
-
----
-
-## 🛠️ Tech Stack
+- 🐍 **Backend & Bots**: Advanced Python developer specializing in the architecture of complex Discord bots, custom automation tools, and scalable database management using SQLite and MySQL.
+- 🌐 **Web Development**: Building responsive sites with HTML5, CSS3, and JavaScript.
+- 🎮 **Game Development** : Versatile game developer with expertise in Unity (C#) for large-scale projects, alongside advanced scripting and UI design for FiveM (Lua), Garry's Mod (GLua), Minecraft, and Roblox (Luau).
 
 <p align="left">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
