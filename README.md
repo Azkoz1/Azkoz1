@@ -1,55 +1,57 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:5865F2&height=200&section=header&text=Azkoz&fontSize=90&animation=fadeIn" width="100%"/>
-</p>
+# Hi there, I'm [Ton Prénom/Pseudo]! 👋
 
-# 👋 Hi, I'm Azkoz!
+### ⚡ Owner of PaladinsRP | FiveM Developer | Community Manager
 
-### 👨‍💻 Full-Stack Developer & FiveM Scripter
-I am a versatile developer specializing in building high-performance tools and immersive gaming experiences. Whether it's complex Discord automation or custom server resources, I focus on clean and efficient code.
+I am a passionate developer and community leader currently focused on building **PaladinsRP**, a high-quality GTA RP server with a US-based mentality. I love creating immersive experiences and managing active communities.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ Skills & Technologies
 
-### 🐍 Backend & Bots
-- **Python**: Advanced bot development using **Discord.py**.
-- **Automation**: Creating scripts to streamline workflows and manage data.
-- **Database**: Managing user data with **SQLite** and **MySQL**.
-
-### 🎮 Game Development
-- **FiveM (Lua)**: Creating custom scripts, optimization, and server-side logic.
-- **UI Design**: Crafting intuitive interfaces for players.
-
-### 🌐 Web Development
-- **Frontend**: Building responsive sites with **HTML5**, **CSS3**, and **JavaScript**.
-
----
-
-## 🚀 Languages & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FiveM-FF8C00?style=for-the-badge&logo=fivem&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azkoz1&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azkoz1&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📱 Connect with me
-- 👾 **Discord:** `Azkoz69`
-- 📁 **Projects:** [Check my repositories](https://github.com/Azkoz1?tab=repositories)
+### 🔭 Current Projects
 
-<p align="right">
-  <i>Keep coding and stay creative!</i> 🚀
+- 🏙️ **[PaladinsRP](https://discord.gg/paladinsrp)** - Managing and developing a US-Mentality GTA RP server.
+- 🔧 **FiveM Scripts** - Optimization and custom feature development.
+- 🤝 **Community Building** - Growing a supportive and active player base.
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://discord.gg/paladinsrp" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-PaladinsRP-blue?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building communities, one script at a time."</i>
 </p>
