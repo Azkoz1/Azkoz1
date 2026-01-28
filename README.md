@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Azkoz1/Azkoz1/main/Capture%20d'écran%202026-01-28%20163107.png" width="100%" alt="Azkoz Banner"/>
+<img width="451" height="184" alt="Capture d&#39;écran 2026-01-28 163107" src="https://github.com/user-attachments/assets/33791dcf-3916-4456-b2a8-dc04e5e3b2c5" />
 </p>
 
 # 👋 Hi, I'm Azkoz!
