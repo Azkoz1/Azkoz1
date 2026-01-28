@@ -24,21 +24,34 @@ I am a versatile developer specializing in building high-performance tools and i
 
 ## 🛠️ Tech Stack & Skills
 
-- 🌍 **Languages:** Proficient in high-level and low-level programming.
-- 🛠️ **FiveM Expert:** Deep experience in Lua and server architecture.
-- 🔍 **Focus:** Performance optimization and custom UI/UX design.
-- 🐍 **Backend & Bots**: Advanced Python developer specializing in the architecture of complex Discord bots, custom automation tools, and scalable database management using SQLite and MySQL.
-- 🌐 **Web Development**: Building responsive sites with HTML5, CSS3, and JavaScript.
-- 🎮 **Game Development** : Versatile game developer with expertise in Unity (C#) for large-scale projects, alongside advanced scripting and UI design for FiveM (Lua), Garry's Mod (GLua), Minecraft, and Roblox (Luau).
+- 🐍 **Backend & Automation**: Advanced Python developer specializing in the architecture of complex Discord bots, custom automation tools, and scalable database management using SQLite and MySQL.
+- 🎮 **Game Development**: Versatile game developer with expertise in **Unity (C#)** for large-scale projects, alongside advanced scripting and UI design for **FiveM (Lua)**, **Garry's Mod (GLua)**, **Minecraft**, and **Roblox (Luau)**.
+- 🌐 **Web Development**: Crafting responsive interfaces and robust logic using HTML5, CSS3, JavaScript, and React.
+- 🔍 **Focus**: Performance optimization, server architecture, and intuitive UI/UX design.
+
+### 🚀 Languages & Technologies
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+  <img src="https://img.shields.io/badge/FiveM-FF8C00?style=for-the-badge&logo=fivem&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  
+  <br />
 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 ---
 
 ## 📱 Connect with me
