@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:5865F2&height=200&section=header&text=Azkoz&fontSize=90&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Azkoz1/Azkoz1/main/Capture%20d'écran%202026-01-28%20163107.png" width="100%" alt="Azkoz Banner"/>
 </p>
 
 # 👋 Hi, I'm Azkoz!
