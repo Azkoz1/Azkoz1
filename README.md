@@ -1,8 +1,12 @@
-# 💻 Full-Stack Developer | Multi-Language Specialist
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Building%20the%20Future&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:5865F2&height=200&section=header&text=Azkoz&fontSize=90&animation=fadeIn" width="100%"/>
 </p>
+
+# 👋 Hi, I'm Azkoz!
+
+### 👨‍💻 Full-Stack Developer & FiveM Scripter
+I am a versatile developer specializing in building high-performance tools and immersive gaming experiences. Whether it's complex Discord automation or custom server resources, I focus on clean and efficient code.
+
 
 ## 📊 What are my Stats?
 
