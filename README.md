@@ -86,7 +86,7 @@ I am a versatile developer specializing in building high-performance tools and i
 ## 📈 2026 Goals
 * 🔭 Currently working on a **Proprietary Game Engine module** in Unity.
 * 🌱 Learning **Rust** for even deeper low-level performance.
-* 💬 Looking to collaborate on **Open Source FiveM frameworks**.
+* 💬 Looking to collaborate on ** any type of project, from game development to automation tools.**.
 
 ---
 
