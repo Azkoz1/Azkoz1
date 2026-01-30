@@ -41,7 +41,7 @@ I am a versatile developer specializing in building high-performance tools and i
 
 | Overall Stats | Most Used Languages |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=Azkoz1&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&hide_border=true" height="200px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azkoz1&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="200px" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Azkoz1&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&hide_border=true&cache_seconds=1800" height="195px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azkoz1&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&langs_count=8&cache_seconds=1800" height="195px" /> |
 
 ---
 
@@ -54,23 +54,16 @@ I am a versatile developer specializing in building high-performance tools and i
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/FiveM-FF8C00?style=for-the-badge&logo=fivem&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
-  
   <br />
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  
   <br />
-
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
 </p>
 
 ### 🧰 Tools & OS
@@ -86,7 +79,7 @@ I am a versatile developer specializing in building high-performance tools and i
 ## 📈 2026 Goals
 * 🔭 Currently working on a **Proprietary Game Engine module** in Unity.
 * 🌱 Learning **Rust** for even deeper low-level performance.
-* 💬 Looking to collaborate on ** any type of project, from game development to automation tools.**.
+* 💬 Looking to collaborate on **any type of project, from game development to automation tools**.
 
 ---
 
