@@ -21,15 +21,13 @@ I am a versatile developer specializing in building high-performance tools and i
 ## 🚀 Specialized Experience
 
 ### 🎮 Game Engineering
-* **Unity**: Development of large-scale 3D environments, custom physics, and C# optimization.
 * **FiveM / GMod**: Creation of complex legal/illegal systems, advanced inventory management, and database-heavy scripts.
 * **Roblox**: Scalable Luau scripting for multi-player engagement and monetization.
+* **Unity**: Development of large-scale 3D environments, custom physics, and C# optimization.
 
 ### 🛠️ Software & Automation
 * **Discord Infrastructure**: Building enterprise-grade bots with complex permission systems and API integrations.
 * **Database Architecture**: Designing relational schemas (MySQL/SQLite) optimized for fast data retrieval.
-
----
 
 ---
 
@@ -43,9 +41,7 @@ I am a versatile developer specializing in building high-performance tools and i
 
 | Overall Stats | Most Used Languages |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=Azkoz1&show_icons=true&theme=dark&count_private=true&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azkoz1&layout=compact&theme=dark&hide_border=true&langs_count=8" /> |
-
----
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Azkoz1&show_icons=true&theme=dark&hide_border=true&count_private=true" height="195px" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Azkoz1&layout=compact&theme=dark&hide_border=true&langs_count=8" height="195px" /> |
 
 ---
 
